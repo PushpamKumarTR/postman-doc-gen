@@ -8,10 +8,10 @@ macholib==1.14
 Markdown==3.3.4
 MarkupSafe==1.1.1
 packaging==20.9
-Pygments
+Pygments==2.6.1
 PyInstaller==4.2
 pyinstaller-hooks-contrib==2021.1
-pymdown-extensions==8.1.1
+pymdown-extensions==7.1
 pyparsing==2.4.7
 six==1.15.0
 webencodings==0.5.1
